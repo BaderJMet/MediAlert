@@ -23,7 +23,7 @@ MediAlert is an offline-first Android app that helps elderly users and patients 
 
 ### Option 1: Install the APK (recommended)
 
-1. Download `MediAlert.apk` from the [Releases](../../release) page, or from the project folder.
+1. Download `MediAlert.apk` from the [Releases](../../releases) page, or from the project folder.
 2. Transfer it to your Android device (Android 10 or higher).
 3. On the device, enable **Install from Unknown Sources** in Settings.
 4. Open the APK and tap **Install**.
